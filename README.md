@@ -9,6 +9,6 @@ To do's:<br>
   Mosh (6u)<br>
 Taakje:<br>
   incl: geziene widgets<br><li>
-  incl: mooie layout<br>
-  incl: iets<br>
-  Maken in 'interface'<br>
+  incl: mooie layout<br><li>
+  incl: iets<br><li>
+  Maken in 'interface'<br><li>
