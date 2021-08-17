@@ -5,8 +5,9 @@ Github vs. PyChare (test.py)<br>
 Intro Tkinter (interface.py)<br>
 
 To do's:<br>
-  lab.github.com: intro Github en Intro to Python<br>
-  Mosh (6u)<br>
+<li> lab.github.com: intro Github en Intro to Python<br></li>
+<li>  Mosh (6u)<br></li>
+
 Taakje:<br>
  <li> incl: geziene widgets<br></li>
  <li> incl: mooie layout<br></li>
